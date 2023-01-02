@@ -27,4 +27,3 @@ Or email me at: calebcampbellcrm@gmail.com
 
                             --- CHECK OUT MY COMMIT HISTORY ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Caleb-Campbell)
-![counter](https://[YourEndpoint].m.pipedream.net)
