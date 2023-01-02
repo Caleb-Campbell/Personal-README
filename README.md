@@ -24,3 +24,6 @@ Message me on LinkedIn
 https://www.linkedin.com/in/calebcampbell-/
 
 Or email me at: calebcampbellcrm@gmail.com
+
+                            --- EXTRA DATA ABOUT ME ---
+![Github stats](https://github-readme-stats.vercel.app/api?username=Caleb-Campbell)
